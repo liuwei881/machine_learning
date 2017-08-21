@@ -190,7 +190,6 @@ def getTopWords(ny, sf):
         print(item[0])
 
 
-
 if __name__ == '__main__':
     # listOPosts, listClasses = loadDataSet()
     # myVocabList = createVocabList(listOPosts)
