@@ -152,7 +152,7 @@ def mineTweets(tweetArr, minSup=5):
 
 
 if __name__ == '__main__':
-    # rootNode = treeNode('pyramid', 9, None)
+    # rootNode = treeNode('pyram id', 9, None)
     # rootNode.children['eye'] = treeNode('eye', 13, None)
     # rootNode.children['phoenix'] = treeNode('phoenix', 3, None)
     # print(rootNode.disp())
